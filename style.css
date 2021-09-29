@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+
+.general {
+    background-image: url("https://web.archive.org/web/20091020071607/http://hk.geocities.com/cherry_sweetiebaby/bg2x.GIF")
+}
+
+#starline {
+    position: relative;
+    margin: auto;
+    /*display: block*/
+}
+
+.title {
+    position: related;
+    display: block;
+    height:4rem;
+    width: 40rem;
+    border:rgb(38, 133, 62) solid 8px;
+    border-radius: 3rem;
+    margin: auto;
+    margin-top: 1rem;
+    padding-top: .5rem;
+}
+
+h1 {
+    font-family: Aclonica;
+    font-size: 40px;
+    color:rgb(137, 61, 167);
+    margin: auto;
+    position: related;
+    
+}
+
+.intro-block {
+    display:block;
+    background-color:rgb(245, 255, 158);
+    height: 15rem;
+    width: 15rem;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.intro {
+    font-family: annie use your telescope;
+    color: rgb(119, 92, 218);
+    font-size: 25px;
+    
+}   
+
+#human-baby {
+    position: absolute;
+    margin: -27.5rem 0 0 1rem;
+    right: 20rem;
+}
+
+#baby-cat {
+    position: relative;
+    bottom: 10rem;
+    left: 17rem;
+    width: 7rem;
+}
+
+#puppy {
+    position: fixed;
+    top: 20rem;
+    left: 7rem;
+}
+
+#baby-devil {
+    position: related;
+    margin-left: 17rem;
+    margin-top: -6rem;
+}
+
+#baby-shower {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+#piggy {
+    position: absolute;
+    top: 9rem;
+    left: 4rem;
+    width: 7rem;
+}
+
+#tuition {
+    max-width: 16rem;
+    position: absolute;
+    right: .5rem;
+    bottom: .5rem;
+    
+}
